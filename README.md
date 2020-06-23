@@ -17,6 +17,9 @@
 NOTE: U have to doenload the following packages to run the code without any errors.
 
 open-cv   cmd = "pip install opencv-python"
+
 numpy     cmd = "pip install numpy"
+
 keras     cmd = "pip install keras"
+
 we have to run these commands in anaconda prompt.
