@@ -22,4 +22,6 @@ numpy     cmd = "pip install numpy"
 
 keras     cmd = "pip install keras"
 
-we have to run these commands in anaconda prompt.
+Note : use Annaconda software to execute Accurately
+
+refer this video : https://youtu.be/duEkbMjvPcE
