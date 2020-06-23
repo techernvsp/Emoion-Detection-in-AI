@@ -14,7 +14,7 @@
 
 - Enjoy Deep Learning.
 
-NOTE: U have to doenload the following packages to run the code without any errors.
+NOTE: U have to download the following packages to run the code without any errors.
 
 open-cv   cmd = "pip install opencv-python"
 
@@ -22,6 +22,6 @@ numpy     cmd = "pip install numpy"
 
 keras     cmd = "pip install keras"
 
-Note : use Annaconda  to execute Accurately
+Note : use Annaconda Prompt to execute Accurately
 
 refer this video : https://youtu.be/duEkbMjvPcE
