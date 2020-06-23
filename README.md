@@ -1,4 +1,4 @@
-# PyPower Project - Emotion Detection using AI
+# Emotion Detection using AI
 
 ## Emotion Detection
 
@@ -14,6 +14,5 @@
 
 - Enjoy Deep Learning.
 
-## The detailed tutorial is available in this video. Please do refer for better understanding.
+NOTE: U have to download "pip install opencv-python" and numpy "pip install numpy" to run the code without any errors.
 
-- https://youtu.be/PulKlAZRoAY
