@@ -16,3 +16,6 @@
 
 NOTE: U have to download "pip install opencv-python" and numpy "pip install numpy" to run the code without any errors.
 
+
+Youtube Video : https://youtu.be/duEkbMjvPcE
+
